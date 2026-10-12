@@ -7,3 +7,6 @@ Tools and Technologies
 Programming: C#
 
 Target Platform: Windows
+##### Summary:
+
+I explored Unity's 3D capabilities by designing a child's bedroom with interactive and dynamic elements. I developed hands-on skills in 3D navigation, object customization, prefab creation, lighting setup, and basic physics implementation.
