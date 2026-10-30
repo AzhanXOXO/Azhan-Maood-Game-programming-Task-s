@@ -1,7 +1,4 @@
 # Unity3D_Roller-Ball-Game-Demo
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
 A simple roller ball game demo based on Unity3D game engine.
 
 ## Table of Contents
@@ -12,7 +9,7 @@ A simple roller ball game demo based on Unity3D game engine.
 - [Usage](#usage)
 - [Structure](#Structure)
 - [Maintainers](#Maintainers)
-- [License](#license)
+  
 
 ## Background
 This is a very simple 3D roller ball game made by Unity3D according to the [Michigan State University](https://msu.edu/)'s coursera course [Introduction to Game Development](https://www-cloudfront-alias.coursera.org/learn/game-development/home/welcome).
@@ -77,9 +74,5 @@ Under **Assets** folder, there are altogether **8** subfolders:
 8. Standard Assets folder: provided by Unity, this will be handy and help us a lot when creating a game demo.
 
 ## Maintainers
+AZHAN MASOOD 
 
-[@Yunxiang-Li](https://github.com/Yunxiang-Li).
-
-## License
-
-[MIT license](https://github.com/Yunxiang-Li/Unity3D_Roller-Ball-Game/blob/master/LICENSE)
